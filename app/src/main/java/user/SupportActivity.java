@@ -1,15 +1,26 @@
 package user;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
 
 import com.royle.nofix.R;
+import com.royle.nofix.SecondAuthenThread;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import helper.DataStore;
 import movie3.MovieDetailActivity;
@@ -79,7 +90,7 @@ public class SupportActivity extends Activity {
             public void onClick(View v) {
 
                 if (dataStore.checkUser()) {
-                    moveToServiceMovie();
+                    secondAuthen();
                 } else {
 
                     startActivity(new Intent(SupportActivity.this, LoginActivity.class));
@@ -124,6 +135,55 @@ public class SupportActivity extends Activity {
         });
 
     }   // Main Method
+
+    private void secondAuthen() {
+
+        String url = "http://2654k.com/Constant/secondPassword.php";
+        try {
+
+            SecondAuthenThread secondAuthenThread = new SecondAuthenThread(SupportActivity.this);
+            secondAuthenThread.execute(url);
+            String response = secondAuthenThread.get();
+
+            Log.d("8MarV1", "response ==> " + response);
+
+            JSONArray jsonArray = new JSONArray(response);
+            final JSONObject jsonObject = jsonArray.getJSONObject(0);
+
+            AlertDialog.Builder builder = new AlertDialog.Builder(SupportActivity.this);
+            builder.setTitle("Second Authen");
+            LayoutInflater layoutInflater = SupportActivity.this.getLayoutInflater();
+            final View view = layoutInflater.inflate(R.layout.alert_dialog_second_authen, null);
+            builder.setView(view);
+            builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+
+                    EditText editText = (EditText) view.findViewById(R.id.edtPasswordAuthen);
+                    String password = editText.getText().toString().trim();
+
+                    try {
+                        if (password.equals(jsonObject.getString("Password"))) {
+                            moveToServiceMovie();
+                        } else {
+                            Toast.makeText(SupportActivity.this, "Password False", Toast.LENGTH_SHORT).show();
+                        }
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+
+                }
+            });
+            builder.show();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+//        Success
+//        moveToServiceMovie();
+
+    }
 
     private void moveToServiceMovie() {
         Intent intent = new Intent(SupportActivity.this, MovieActivity.class);

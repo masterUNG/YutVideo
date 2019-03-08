@@ -68,19 +68,19 @@ public final class R {
         public static final int default_center_top_left_indicator = 0x7f05003a;
         public static final int default_center_top_right_indicator = 0x7f05003b;
         public static final int description_layout = 0x7f05003c;
-        public static final int invisible = 0x7f050064;
-        public static final int loading_bar = 0x7f050075;
-        public static final int oval = 0x7f05007b;
-        public static final int rect = 0x7f05007c;
-        public static final int txtDate_render = 0x7f05008a;
-        public static final int txtName_render = 0x7f0500a6;
-        public static final int visible = 0x7f0500b7;
+        public static final int invisible = 0x7f050065;
+        public static final int loading_bar = 0x7f050076;
+        public static final int oval = 0x7f05007c;
+        public static final int rect = 0x7f05007d;
+        public static final int txtDate_render = 0x7f05008b;
+        public static final int txtName_render = 0x7f0500a7;
+        public static final int visible = 0x7f0500b8;
     }
     public static final class layout {
-        public static final int indicator_layout = 0x7f060014;
-        public static final int render_type_default = 0x7f06001c;
-        public static final int render_type_text = 0x7f06001d;
-        public static final int slider_layout = 0x7f06001f;
+        public static final int indicator_layout = 0x7f060015;
+        public static final int render_type_default = 0x7f06001d;
+        public static final int render_type_text = 0x7f06001e;
+        public static final int slider_layout = 0x7f060020;
     }
     public static final class string {
         public static final int app_name = 0x7f080002;
