@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":librarySlider"><source path="F:\yut\nofix\librarySlider\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="F:\yut\nofix\app\src\main\assets"/><source path="F:\yut\nofix\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\yut\nofix\app\src\debug\assets"/></dataSet></merger>
