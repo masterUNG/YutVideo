@@ -150,6 +150,7 @@ public class SupportActivity extends Activity {
             JSONArray jsonArray = new JSONArray(response);
             final JSONObject jsonObject = jsonArray.getJSONObject(0);
 
+//            Show Alert
             AlertDialog.Builder builder = new AlertDialog.Builder(SupportActivity.this);
             builder.setTitle("Second Authen");
             LayoutInflater layoutInflater = SupportActivity.this.getLayoutInflater();
@@ -175,6 +176,7 @@ public class SupportActivity extends Activity {
                 }
             });
             builder.show();
+//            End Alert
 
         } catch (Exception e) {
             e.printStackTrace();

@@ -312,10 +312,78 @@ public class TvCategoryActivity extends Activity {
                 // TODO Auto-generated method stub
                 try {
 
-                    if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
-                        //////added  by  tony
+//                    if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+//                        //////added  by  tony
+//                        Intent intent = new Intent();
+//                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.pro.ActivityScreen");
+//
+//                        intent.setComponent(comp);
+//                        intent.setAction(Intent.ACTION_VIEW);
+//                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+//                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//                        intent.putExtra("SourceFrom", "Network");
+//                        intent.putExtra("secure_uri", true);
+//                        intent.putExtra("video_zoom", 0);
+//                        startActivity(intent);
+//
+//
+//                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+//                        //////added  by  tony
+//                        Intent intent = new Intent();
+//                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.ad.ActivityScreen");
+//
+//                        intent.setComponent(comp);
+//                        intent.setAction(Intent.ACTION_VIEW);
+//                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+//                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//                        intent.putExtra("SourceFrom", "Network");
+//                        intent.putExtra("secure_uri", true);
+//                        intent.putExtra("video_zoom", 0);
+//                        startActivity(intent);
+//
+//                    } else if (playerInstalledOrNot("com.android.gallery3d")) {
+//                        //////added  by  tony
+//                        Intent intent = new Intent();
+//                        ComponentName comp = new ComponentName("com.android.gallery3d", "com.android.gallery3d.app.MovieActivity");
+//
+//                        intent.setComponent(comp);
+//                        intent.setAction(Intent.ACTION_VIEW);
+//                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+//                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//                        intent.putExtra("SourceFrom", "Network");
+//                        intent.putExtra("secure_uri", true);
+//                        intent.putExtra("video_zoom", 0);
+//                        startActivity(intent);
+//
+//                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+//                        //////added  by  tony
+//                        Intent intent = new Intent();
+//                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.gold", "com.mxtech.videoplayer.ActivityScreen");
+//
+//                        intent.setComponent(comp);
+//                        intent.setAction(Intent.ACTION_VIEW);
+//                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+//                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//                        intent.putExtra("SourceFrom", "Network");
+//                        intent.putExtra("secure_uri", true);
+//                        intent.putExtra("video_zoom", 0);
+//                        startActivity(intent);
+//
+//
+//                    } else
+
+                    Log.d("8MarV1", "On Thread Contanue");
+
+                        if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+
+                            Log.d("8MarV1", "Working True");
+
+                            ////added  by  tony
                         Intent intent = new Intent();
-                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.pro.ActivityScreen");
+//                        ComponentName comp = new ComponentName("com.softvelum.sldp_player", "com.softvelum.sldp_player.ActivityScreen");
+//                        ComponentName comp = new ComponentName("org.videolan.vlc", "org.videolan.vlc.gui.video.VideoPlayerActivity");
+
+                      ComponentName comp = new ComponentName("com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.ad.ActivityScreen");
 
                         intent.setComponent(comp);
                         intent.setAction(Intent.ACTION_VIEW);
@@ -325,58 +393,18 @@ public class TvCategoryActivity extends Activity {
                         intent.putExtra("secure_uri", true);
                         intent.putExtra("video_zoom", 0);
                         startActivity(intent);
-
-
-                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
-                        //////added  by  tony
-                        Intent intent = new Intent();
-                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.ad.ActivityScreen");
-
-                        intent.setComponent(comp);
-                        intent.setAction(Intent.ACTION_VIEW);
-                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                        intent.putExtra("SourceFrom", "Network");
-                        intent.putExtra("secure_uri", true);
-                        intent.putExtra("video_zoom", 0);
-                        startActivity(intent);
-
-                    } else if (playerInstalledOrNot("com.android.gallery3d")) {
-                        //////added  by  tony
-                        Intent intent = new Intent();
-                        ComponentName comp = new ComponentName("com.android.gallery3d", "com.android.gallery3d.app.MovieActivity");
-
-                        intent.setComponent(comp);
-                        intent.setAction(Intent.ACTION_VIEW);
-                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                        intent.putExtra("SourceFrom", "Network");
-                        intent.putExtra("secure_uri", true);
-                        intent.putExtra("video_zoom", 0);
-                        startActivity(intent);
-
-                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
-                        //////added  by  tony
-                        Intent intent = new Intent();
-                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.gold", "com.mxtech.videoplayer.ActivityScreen");
-
-                        intent.setComponent(comp);
-                        intent.setAction(Intent.ACTION_VIEW);
-                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                        intent.putExtra("SourceFrom", "Network");
-                        intent.putExtra("secure_uri", true);
-                        intent.putExtra("video_zoom", 0);
-                        startActivity(intent);
-
 
                     } else {
+
+                            Log.d("8MarV1", "NOt Working False");
+
                         TvCategoryActivity.CheckAccessTask.installgold atualizaApp = new TvCategoryActivity.CheckAccessTask.installgold();
                         atualizaApp.setContext(getApplicationContext());
                         atualizaApp.execute("MXPlayer.apk");
                         Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
                         Intent intent = new Intent(TvCategoryActivity.this, Mxplayer.class);
                         startActivity(intent);
+
                     }
 
 

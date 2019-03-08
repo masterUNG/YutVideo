@@ -106,6 +106,7 @@ public class RefillActivity extends Activity {
 	}
 
 	private void dialogCode() {
+		Log.d("8MarV1", "dialogCode Workd");
 		final AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(this);
 		LayoutInflater inflater = this.getLayoutInflater();
 		View dialogView = inflater.inflate(R.layout.dialog_code, null);
@@ -123,17 +124,25 @@ public class RefillActivity extends Activity {
 				b.setOnClickListener(new View.OnClickListener() {
 					@Override
 					public void onClick(View v) {
+
 						String code = editText.getText().toString().trim();
+
+//						New Code
+
+
+
+
+//						Old Code
 						DataStore dataStore = new DataStore(getApplicationContext());
 						String userId = dataStore.LoadSharedPreference(DataStore.USER_ID, "");
 						new RefillCodeTask(userId,code).execute();
-					}
+
+					}	// onClick
 				});
 			}
 		});
-
 		alertDialog.show();
-	}
+	}	// dialogCode
 
 	public class RefillCodeTask extends AsyncTask<Void, Void, String> {
 		private String code;
@@ -149,14 +158,16 @@ public class RefillActivity extends Activity {
 			List<NameValuePair> list = new ArrayList<NameValuePair>();
 			list.add(new BasicNameValuePair("id", code));
 			list.add(new BasicNameValuePair("code", userId));
-//			String resultData = portalServices.makePortalCall(null, "http://saleilike.4kmoviestar.com/code/re",
-//					PortalServices.POST, list);
-
-			String resultData = portalServices.makePortalCall(null, "http://2654k.com/code/re",
+			String resultData = portalServices.makePortalCall(null, "http://saleilike.4kmoviestar.com/code/re",
 					PortalServices.POST, list);
 
-						Log.e("refill_code", resultData);
-            Log.d("refill_code", resultData);
+//			String resultData = portalServices.makePortalCall(null, "http://2654k.com/code/re",
+//					PortalServices.POST, list);
+
+			Log.d("8MarV1", "resultData ==> " + resultData);
+
+			resultData = "{\"status\":5,\"txt\":\"Test by Master\"}";
+
             return resultData;
 		}
 
@@ -173,14 +184,6 @@ public class RefillActivity extends Activity {
 					Toast.makeText(RefillActivity.this, txt, Toast.LENGTH_SHORT).show();
 				} else {
 					alertDialog.dismiss();
-
-					Log.d("hua", username);
-
-
-					Log.d("hua", getPackageResourcePath());
-
-
-
 				}
 			} catch (JSONException e) {
 				e.printStackTrace();
