@@ -6,7 +6,7 @@ android {
         you4k {
             keyAlias 'ew902'
             keyPassword '555555'
-            storeFile file('F:/yut/EW902/keystore/ew902k.jks')
+            storeFile file('/Users/masterung/MyWorkSpace/ConsultProject/YutVideo/keystore/ew902k.jks')
             storePassword '555555'
         }
     }

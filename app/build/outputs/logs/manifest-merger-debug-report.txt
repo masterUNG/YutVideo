@@ -1,458 +1,458 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12
 	package
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:5:5-29
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
-		INJECTED from F:\yut\nofix\app\src\main\AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:11:5-67
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-67
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-67
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-67
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:12:5-76
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:12:22-73
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:12:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:14:5-79
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:14:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:15:5-81
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-81
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-81
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:15:5-81
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-81
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.EXTRA_RETURN_RESULT
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:16:5-78
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:16:5-78
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:16:22-75
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:16:22-75
 uses-permission#android.intent.action.UNINSTALL_PACKAGE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.intent.action.INSTALL_PACKAGE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:18:5-77
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:18:5-77
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:18:22-74
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:18:22-74
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:19:5-88
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:19:5-88
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:19:22-85
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:19:22-85
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:20:5-79
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:20:22-76
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:20:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:21:5-76
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:21:5-76
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:21:22-73
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:21:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:22:5-75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:22:5-75
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:22:22-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:22:22-72
 supports-screens
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:25:5-38:24
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:25:5-38:24
 application
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:41:5-230:19
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:19
-MERGED from [:librarySlider] F:\yut\nofix\librarySlider\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-11:19
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:41:5-230:19
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:19
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/librarySlider/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:19
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:44:9-41
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:44:9-41
 	android:icon
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:43:9-38
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:43:9-38
 	android:allowBackup
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:42:9-35
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:42:9-35
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:45:9-40
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:45:9-40
 activity#com.royle.nofix.SplashScreen
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:46:9-56:20
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:46:9-56:20
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:49:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:49:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:48:13-45
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:48:13-45
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:50:13-60
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:50:13-60
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:47:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:47:13-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:51:13-55:29
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:52:17-69
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:52:25-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:54:17-77
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:54:27-74
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:54:27-74
 activity#com.royle.nofix.UpdateCheck
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:57:9-61:63
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:57:9-61:63
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:60:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:60:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:59:13-40
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:59:13-40
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:61:13-60
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:61:13-60
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:58:13-55
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:58:13-55
 activity#com.royle.nofix.MainActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:62:9-65:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:62:9-65:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:65:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:65:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:64:13-45
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:64:13-45
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:63:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:63:13-56
 activity#user.RefillActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:66:9-70:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:66:9-70:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:69:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:69:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:68:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:68:13-58
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:70:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:70:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:67:13-47
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:67:13-47
 activity#user.RegisterActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:71:9-74:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:71:9-74:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:73:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:73:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:74:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:74:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:72:13-49
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:72:13-49
 activity#user.LoginActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:75:9-78:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:75:9-78:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:77:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:77:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:78:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:78:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:76:13-46
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:76:13-46
 activity#user.ChangePassActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:79:9-82:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:79:9-82:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:81:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:81:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:82:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:82:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:80:13-51
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:80:13-51
 activity#iptv.IpTvActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:83:9-86:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:83:9-86:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:86:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:86:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:85:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:85:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:84:13-45
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:84:13-45
 activity#iptv.TvCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:87:9-90:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:87:9-90:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:90:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:90:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:89:13-63
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:89:13-63
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:88:13-51
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:88:13-51
 activity#iptv2.IpTvActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:91:9-94:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:91:9-94:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:94:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:94:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:93:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:93:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:92:13-46
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:92:13-46
 activity#iptv2.TvCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:95:9-98:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:95:9-98:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:98:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:98:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:97:13-63
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:97:13-63
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:96:13-52
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:96:13-52
 activity#movie.MovieActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:99:9-102:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:99:9-102:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:102:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:102:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:101:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:101:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:100:13-47
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:100:13-47
 activity#movie.MovieCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:103:9-106:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:103:9-106:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:106:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:106:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:105:13-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:105:13-66
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:104:13-55
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:104:13-55
 activity#movie.MovieDetailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:107:9-110:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:107:9-110:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:110:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:110:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:109:13-64
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:109:13-64
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:108:13-53
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:108:13-53
 activity#movie2.MovieActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:111:9-114:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:111:9-114:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:114:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:114:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:113:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:113:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:112:13-48
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:112:13-48
 activity#movie2.MovieCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:115:9-118:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:115:9-118:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:118:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:118:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:117:13-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:117:13-66
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:116:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:116:13-56
 activity#movie2.MovieDetailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:119:9-122:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:119:9-122:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:122:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:122:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:121:13-64
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:121:13-64
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:120:13-54
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:120:13-54
 activity#movie3.MovieActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:124:9-127:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:124:9-127:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:127:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:127:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:126:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:126:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:125:13-48
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:125:13-48
 activity#movie3.MovieCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:128:9-131:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:128:9-131:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:131:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:131:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:130:13-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:130:13-66
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:129:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:129:13-56
 activity#movie3.MovieDetailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:132:9-135:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:132:9-135:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:135:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:135:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:134:13-64
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:134:13-64
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:133:13-54
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:133:13-54
 activity#user.UserProfileActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:138:9-141:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:138:9-141:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:141:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:141:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:140:13-64
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:140:13-64
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:139:13-52
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:139:13-52
 activity#com.royle.nofix.SearchActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:142:9-146:59
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:142:9-146:59
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:145:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:145:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:144:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:144:13-58
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:146:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:146:13-56
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:143:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:143:13-58
 activity#com.royle.nofix.NewsActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:147:9-150:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:147:9-150:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:150:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:150:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:149:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:149:13-56
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:148:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:148:13-56
 activity#series.SeriesActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:151:9-154:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:151:9-154:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:154:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:154:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:153:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:153:13-58
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:152:13-49
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:152:13-49
 activity#series.SeriesCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:155:9-158:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:155:9-158:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:158:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:158:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:157:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:157:13-58
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:156:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:156:13-57
 activity#series.SeriesDetailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:159:9-162:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:159:9-162:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:162:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:162:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:161:13-65
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:161:13-65
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:160:13-55
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:160:13-55
 activity#series2.SeriesActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:163:9-166:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:163:9-166:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:166:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:166:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:165:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:165:13-58
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:164:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:164:13-50
 activity#series2.SeriesCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:167:9-170:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:167:9-170:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:170:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:170:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:169:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:169:13-58
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:168:13-58
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:168:13-58
 activity#series2.SeriesDetailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:171:9-174:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:171:9-174:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:174:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:174:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:173:13-65
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:173:13-65
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:172:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:172:13-56
 activity#ebook.EbookActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:175:9-178:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:175:9-178:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:178:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:178:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:177:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:177:13-57
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:176:13-47
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:176:13-47
 activity#ebook.WebViewEbookActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:179:9-182:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:179:9-182:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:182:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:182:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:181:13-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:181:13-66
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:180:13-54
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:180:13-54
 activity#ebook.EbookCategoryActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:183:9-186:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:183:9-186:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:186:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:186:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:185:13-66
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:185:13-66
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:184:13-55
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:184:13-55
 activity#user.MailActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:189:9-192:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:189:9-192:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:192:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:192:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:191:13-41
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:191:13-41
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:190:13-45
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:190:13-45
 activity#user.SupportActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:193:9-197:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:193:9-197:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:196:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:196:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:195:13-44
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:195:13-44
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:197:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:197:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:194:13-48
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:194:13-48
 activity#com.royle.nofix.SearchSRActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:198:9-202:59
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:198:9-202:59
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:201:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:201:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:200:13-37
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:200:13-37
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:202:13-56
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:202:13-56
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:199:13-60
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:199:13-60
 activity#user.CheckTrueMoneyActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:203:9-206:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:203:9-206:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:205:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:205:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:206:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:206:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:204:13-55
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:204:13-55
 activity#user.HowtoActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:207:9-210:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:207:9-210:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:209:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:209:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:210:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:210:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:208:13-46
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:208:13-46
 activity#com.royle.nofix.Mxplayer
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:211:9-214:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:211:9-214:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:213:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:213:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:214:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:214:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:212:13-52
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:212:13-52
 activity#com.royle.nofix.SportActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:216:9-219:53
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:216:9-219:53
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:219:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:219:13-50
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:218:13-42
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:218:13-42
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:217:13-57
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:217:13-57
 activity#com.royle.nofix.WebViewPayPalActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:220:9-74
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:220:9-74
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:220:19-71
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:220:19-71
 activity#user.ErrorActivity
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:222:9-225:75
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:222:9-225:75
 	android:screenOrientation
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:224:13-50
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:224:13-50
 	android:theme
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:225:13-72
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:225:13-72
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:223:13-46
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:223:13-46
 service#meklib.KeepAlive
-ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:227:9-229:49
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:227:9-229:49
 	android:label
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:229:13-38
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:229:13-38
 	android:name
-		ADDED from F:\yut\nofix\app\src\main\AndroidManifest.xml:228:13-44
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:228:13-44
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\yut\nofix\app\src\main\AndroidManifest.xml:2:1-231:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/masterung/MyWorkSpace/ConsultProject/YutVideo/app/src/main/AndroidManifest.xml:2:1-231:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE

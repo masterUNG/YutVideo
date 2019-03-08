@@ -11,6 +11,7 @@ import android.widget.Button;
 
 import com.royle.nofix.R;
 
+import helper.DataStore;
 import movie3.MovieDetailActivity;
 import movie3.MovieActivity;
 
@@ -24,12 +25,15 @@ public class SupportActivity extends Activity {
     private Button QuickSupport;
     private Button Support;
     Intent intent;
+    private DataStore dataStore;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.user_activity_support);
+
+        dataStore = new DataStore(SupportActivity.this);
 
         initWidget();
 
@@ -67,26 +71,22 @@ public class SupportActivity extends Activity {
 
 
 
-
+//==============================================
+//        Check Authen Before go to Service
+//        =====================================
         WebMail.setOnClickListener(new OnClickListener() {
-
-
             @Override
             public void onClick(View v) {
 
+                if (dataStore.checkUser()) {
+                    moveToServiceMovie();
+                } else {
 
-
-
-                if(true) {
-
-
-                    Intent intent = new Intent(SupportActivity.this, MovieActivity.class);
-                    startActivity(intent);
+                    startActivity(new Intent(SupportActivity.this, LoginActivity.class));
                     finish();
 
-                }
-            }
-
+                }   // if
+            }   // onClick
 
         });
 
@@ -122,6 +122,13 @@ public class SupportActivity extends Activity {
                 }
             }
         });
+
+    }   // Main Method
+
+    private void moveToServiceMovie() {
+        Intent intent = new Intent(SupportActivity.this, MovieActivity.class);
+        startActivity(intent);
+        finish();
     }
 
 

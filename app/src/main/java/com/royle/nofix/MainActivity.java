@@ -80,7 +80,7 @@ public class MainActivity extends FragmentActivity {
     private ImageButton btnRefill;
     private Button btnPayPal;
     private Button btnCode;
-    private ImageButton btnSupport;
+    private ImageButton btnSupport; // Btn วิธีใช้งาน และ แจ้งปัญหา
     private ImageButton btnSearch;
 
     private ImageButton imbTv;
@@ -283,7 +283,10 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View v) {
 
+                Log.d("8MarV1", "Click Movie");
+
                 if (dataStore.checkUser()) {
+                    Log.d("8MarV1", "datqStore ==> True");
                     intent = new Intent(MainActivity.this, MovieActivity.class);
                     startActivity(intent);
 
@@ -303,6 +306,7 @@ public class MainActivity extends FragmentActivity {
 
 
                         } else {
+
                             installgold atualizaApp = new installgold();
                             atualizaApp.setContext(getApplicationContext());
                             atualizaApp.execute("MXPlayer.apk");
@@ -315,9 +319,10 @@ public class MainActivity extends FragmentActivity {
                         e.printStackTrace();
                     }
                 } else {
+                    Log.d("8MarV1", "datqStore ==> False");
                     startActivity(new Intent(MainActivity.this, LoginActivity.class));
 
-                }
+                } //if
 
             }
         });
